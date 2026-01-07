@@ -1,0 +1,229 @@
+user_id,segment,home_neighborhood,pref_categories,price_preference,distance_tolerance_km,ambience_prefs,explore_rate
+u_0001,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0002,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0003,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0004,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0005,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0006,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0007,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0008,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0009,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0010,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0011,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0012,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0013,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0014,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0015,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0016,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0017,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0018,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0019,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0020,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0021,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0022,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0023,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0024,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0025,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0026,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0027,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0028,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0029,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0030,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0031,italian_date_kp,Koregaon Park,"italian,pizza",2,4.0,date,0.25
+u_0032,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0033,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0034,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0035,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0036,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0037,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0038,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0039,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0040,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0041,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0042,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0043,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0044,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0045,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0046,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0047,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0048,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0049,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0050,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0051,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0052,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0053,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0054,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0055,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0056,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0057,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0058,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0059,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0060,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0061,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0062,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0063,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0064,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0065,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0066,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0067,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0068,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0069,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0070,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0071,budget_cafe_fc,FC Road,"cafe,dessert",1,3.0,study,0.3
+u_0072,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0073,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0074,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0075,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0076,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0077,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0078,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0079,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0080,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0081,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0082,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0083,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0084,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0085,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0086,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0087,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0088,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0089,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0090,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0091,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0092,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0093,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0094,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0095,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0096,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0097,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0098,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0099,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0100,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0101,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0102,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0103,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0104,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0105,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0106,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0107,veg_hingej_baner,Baner,"veg_only,north_indian",2,4.5,group,0.2
+u_0108,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0109,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0110,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0111,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0112,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0113,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0114,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0115,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0116,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0117,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0118,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0119,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0120,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0121,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0122,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0123,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0124,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0125,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0126,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0127,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0128,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0129,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0130,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0131,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0132,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0133,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0134,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0135,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0136,asian_viman,Viman Nagar,"asian,healthy,cafe",2,4.0,group,0.35
+u_0137,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0138,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0139,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0140,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0141,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0142,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0143,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0144,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0145,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0146,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0147,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0148,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0149,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0150,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0151,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0152,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0153,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0154,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0155,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0156,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0157,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0158,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0159,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0160,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0161,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0162,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0163,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0164,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0165,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0166,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0167,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0168,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0169,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0170,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0171,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0172,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0173,south_student_katraj,Katraj,"south_indian,street_food",1,3.0,budget,0.25
+u_0174,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0175,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0176,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0177,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0178,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0179,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0180,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0181,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0182,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0183,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0184,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0185,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0186,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0187,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0188,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0189,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0190,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0191,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0192,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0193,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0194,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0195,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0196,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0197,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0198,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0199,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0200,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0201,office_hinjawadi,Hinjawadi,"cafe,north_indian",2,5.0,group,0.2
+u_0202,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0203,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0204,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0205,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0206,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0207,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0208,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0209,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0210,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0211,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0212,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0213,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0214,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0215,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0216,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0217,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0218,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0219,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0220,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0221,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0222,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0223,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0224,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0225,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0226,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0227,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3
+u_0228,camp_classics,Camp,"bakery,dessert,cafe",2,3.5,cozy,0.3

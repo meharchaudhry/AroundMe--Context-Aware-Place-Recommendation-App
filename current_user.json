@@ -1,0 +1,16 @@
+{
+  "user_id": "current_user",
+  "name": "acr",
+  "segment": "pizza_koregaon_park",
+  "neighborhoods": [
+    "Koregaon Park",
+    "Kothrud"
+  ],
+  "preferred_categories": [
+    "pizza",
+    "vegan"
+  ],
+  "price_preference": 2,
+  "age_group": "25-35",
+  "created_at": "2025-11-06T12:35:56.005737"
+}
