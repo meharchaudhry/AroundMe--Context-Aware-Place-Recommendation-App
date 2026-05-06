@@ -34,7 +34,6 @@ def test_system():
     try:
         # Create system instance
         system = IntegratedAroundMeSystem(
-            google_api_key="AIzaSyA5Bra70R6GRitr_Biv3QY_Cmre8wQJpmo",
             use_synthetic_data=False
         )
         
