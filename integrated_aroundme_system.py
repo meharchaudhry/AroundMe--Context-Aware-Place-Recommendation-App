@@ -1552,8 +1552,7 @@ def main_demo():
     print("🚀 Initializing AroundMe Integrated System...")
     
     # Replace with your actual Google API key for real data mode
-    GOOGLE_API_KEY = "AIzaSyAQYF11lpM2OlI7cgxKwCVabuBF99CCRXY"
-    
+    GOOGLE_API_KEY = os.environ.get('AROUNDME_GOOGLE_API_KEY', '')    
     # Start with synthetic data
     system = IntegratedAroundMeSystem(
         google_api_key=GOOGLE_API_KEY,
